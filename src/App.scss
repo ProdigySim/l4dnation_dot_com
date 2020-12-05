@@ -1,0 +1,60 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.App-logo {
+  width: 600px;
+}
+
+.discord_shout {
+  text-align: center;
+}
+
+.discord-logo {
+  width: 200px;
+  padding: 0px 32px;
+}
+
+.spacer-v16 {
+  height: 16px;
+  display: block;
+}
+
+.comp-links-grid {
+  margin: 0px auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  width: 600px;
+  img {
+    width: 180px;
+  }
+  p {
+    margin: 4px 0;
+  }
+}
+
+.complink {
+  padding: 8px;
+  .logo-link {
+    min-height: 82px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}
+
+.cedapug-logo {
+  background-color: orange;
+}
