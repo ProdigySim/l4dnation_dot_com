@@ -52,7 +52,7 @@ function App() {
 }
 
 const Link = (p: React.PropsWithChildren<{ className?: string; href: string }>) => (
-  <a href={p.href} className={p.className} target="_blank" rel="nnoreferrer noopener">{p.children}</a>
+  <a href={p.href} className={p.className} target="_blank" rel="noreferrer noopener">{p.children}</a>
 );
 
 export default App;
