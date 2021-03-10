@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/l4dnation_dot_com/static/css/main.17f0985b.chunk.css",
-    "main.js": "/l4dnation_dot_com/static/js/main.2460cd6a.chunk.js",
-    "main.js.map": "/l4dnation_dot_com/static/js/main.2460cd6a.chunk.js.map",
-    "runtime-main.js": "/l4dnation_dot_com/static/js/runtime-main.4f0b8ad1.js",
-    "runtime-main.js.map": "/l4dnation_dot_com/static/js/runtime-main.4f0b8ad1.js.map",
-    "static/js/2.a34f07ba.chunk.js": "/l4dnation_dot_com/static/js/2.a34f07ba.chunk.js",
-    "static/js/2.a34f07ba.chunk.js.map": "/l4dnation_dot_com/static/js/2.a34f07ba.chunk.js.map",
-    "static/js/3.0eaa406d.chunk.js": "/l4dnation_dot_com/static/js/3.0eaa406d.chunk.js",
-    "static/js/3.0eaa406d.chunk.js.map": "/l4dnation_dot_com/static/js/3.0eaa406d.chunk.js.map",
-    "index.html": "/l4dnation_dot_com/index.html",
-    "static/css/main.17f0985b.chunk.css.map": "/l4dnation_dot_com/static/css/main.17f0985b.chunk.css.map",
-    "static/js/2.a34f07ba.chunk.js.LICENSE.txt": "/l4dnation_dot_com/static/js/2.a34f07ba.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/l4dnation_dot_com/static/media/bg.0eaa85f4.jpg",
-    "static/media/cedapug_logo.70045b16.png": "/l4dnation_dot_com/static/media/cedapug_logo.70045b16.png",
-    "static/media/discord_transparent_cropped.d9b17f74.png": "/l4dnation_dot_com/static/media/discord_transparent_cropped.d9b17f74.png",
-    "static/media/logo_normal.514202d7.png": "/l4dnation_dot_com/static/media/logo_normal.514202d7.png",
-    "static/media/rbtv_bigbanner.05f19e1a.png": "/l4dnation_dot_com/static/media/rbtv_bigbanner.05f19e1a.png"
+    "main.css": "/static/css/main.5ec0d2d1.chunk.css",
+    "main.js": "/static/js/main.2460cd6a.chunk.js",
+    "main.js.map": "/static/js/main.2460cd6a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e574b187.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e574b187.js.map",
+    "static/js/2.a34f07ba.chunk.js": "/static/js/2.a34f07ba.chunk.js",
+    "static/js/2.a34f07ba.chunk.js.map": "/static/js/2.a34f07ba.chunk.js.map",
+    "static/js/3.0eaa406d.chunk.js": "/static/js/3.0eaa406d.chunk.js",
+    "static/js/3.0eaa406d.chunk.js.map": "/static/js/3.0eaa406d.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.5ec0d2d1.chunk.css.map": "/static/css/main.5ec0d2d1.chunk.css.map",
+    "static/js/2.a34f07ba.chunk.js.LICENSE.txt": "/static/js/2.a34f07ba.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/bg.0eaa85f4.jpg",
+    "static/media/cedapug_logo.70045b16.png": "/static/media/cedapug_logo.70045b16.png",
+    "static/media/discord_transparent_cropped.d9b17f74.png": "/static/media/discord_transparent_cropped.d9b17f74.png",
+    "static/media/logo_normal.514202d7.png": "/static/media/logo_normal.514202d7.png",
+    "static/media/rbtv_bigbanner.05f19e1a.png": "/static/media/rbtv_bigbanner.05f19e1a.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.4f0b8ad1.js",
+    "static/js/runtime-main.e574b187.js",
     "static/js/2.a34f07ba.chunk.js",
-    "static/css/main.17f0985b.chunk.css",
+    "static/css/main.5ec0d2d1.chunk.css",
     "static/js/main.2460cd6a.chunk.js"
   ]
 }
