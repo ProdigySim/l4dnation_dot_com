@@ -43,7 +43,7 @@ function App() {
                 <img src={rbtLogo} className="rbtv-logo" alt="The Really Big Tournament V" />
               </Link>
             </div>
-            <p>The RBTV tournament is coming! Visit their <Link href="https://steamcommunity.com/groups/rbtvl4d2">Steam Group</Link> and <Link href="https://discord.gg/cZf3Y72pxt">Discord</Link>.</p>
+            <p>The RBTV tournament is live! Visit their <Link href="https://steamcommunity.com/groups/rbtvl4d2">Steam Group</Link> and <Link href="https://discord.gg/cZf3Y72pxt">Discord</Link>.</p>
           </div>
         </div>
       </div>

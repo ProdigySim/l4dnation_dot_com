@@ -16,6 +16,7 @@
 
 .App-logo {
   width: 600px;
+  max-width: 100%;
 }
 
 .discord_shout {
@@ -24,6 +25,7 @@
 
 .discord-logo {
   width: 200px;
+  max-width: 100%;
   padding: 0px 32px;
 }
 
@@ -35,8 +37,9 @@
 .comp-links-grid {
   margin: 0px auto;
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   width: 600px;
+  max-width: 100%;
   img {
     width: 180px;
   }
